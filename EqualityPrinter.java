@@ -1,5 +1,3 @@
- package Udemy.java;
-
 public class equalityPrinter {
 	
 	public static void printEqual(int x, int y, int z) {
