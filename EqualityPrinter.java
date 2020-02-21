@@ -17,6 +17,7 @@ public class equalityPrinter {
 	
 	public static void main(String[] args) {
 		System.out.println("Output");
+		System.out.println("--------------");
 		printEqual(1,1,1);
 		printEqual(1,1,2);
 		printEqual(-1,-1,-1);
